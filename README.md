@@ -2,7 +2,7 @@
 
 This software prints "Hello World" on the screen using Java and IntelliJ.
 
-The purpose of this software is to gain knowledge in installing different software tools such as Version Control System(Git), a programming language (Python, in this case), and an Integrated Development Environment (VS Code). Also, its purpose is also to get familiar with Git, using an IDE, printing out "Hello World", and submitting/pushing the code in GitHub.
+The purpose of this software is to gain knowledge in installing different software tools such as Version Control System(Git), a programming language (Java, in this case), and an Integrated Development Environment (IntelliJ IDEA). Also, its purpose is also to get familiar with Git, using an IDE, printing out "Hello World", and submitting/pushing the code in GitHub.
 
 # Development Environment
 

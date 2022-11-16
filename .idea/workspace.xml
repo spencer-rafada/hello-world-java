@@ -2,16 +2,21 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="JavaMethods:jar" />
+      <artifact name="JavaClass:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e6c8511-2e60-4332-b134-85a35ef3695b" name="Changes" comment="added code for learning java">
+    <list default="true" id="9e6c8511-2e60-4332-b134-85a35ef3695b" name="Changes" comment="learning java more">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaClass_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/com/example/javaclass/JavaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/com/example/javaclass/JavaClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/com/example/javaclass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/com/example/javaclass/myCar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/javamethods/JavaMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/javamethods/JavaMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +60,26 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Application.JavaMethods">
+  <component name="RunManager" selected="Application.JavaClass">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.com.example.javaclass.JavaClass" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.com.example.javaclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,6 +122,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.JavaClass" />
       <item itemvalue="Application.JavaMethods" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="JAR Application.MethodsJar" />
@@ -111,6 +130,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaClass" />
         <item itemvalue="Application.JavaMethods" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -160,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668483696592</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="learning java more">
+      <created>1668580741916</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668580741916</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +207,7 @@
     <MESSAGE value="added readme" />
     <MESSAGE value="updated readme" />
     <MESSAGE value="added code for learning java" />
-    <option name="LAST_COMMIT_MESSAGE" value="added code for learning java" />
+    <MESSAGE value="learning java more" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning java more" />
   </component>
 </project>

@@ -45,6 +45,11 @@ public class JavaClass {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter username: ");
         String userName = scanner.nextLine();
+        System.out.print("Enter age: ");
+        int age = scanner.nextInt();
+
         System.out.println("Username is " + userName);
+        System.out.println("Age is " + age);
+
     }
 }
